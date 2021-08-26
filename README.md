@@ -20,7 +20,7 @@ if either mscXML1 or mscXML2 has **measure_number** less than **<max_measure_num
 # System Pipline
 
 
-![mscPipline](https://github.com/JhMaic/mscTransfer/blob/main/images/pipline.png)
+![mscPipline](https://github.com/JhMaic/mscTransfer/blob/main/images/mscline.png)
 
 > Musical file processing procedure.
 ## Model discription
