@@ -20,15 +20,7 @@ if either mscXML1 or mscXML2 has **measure_number** less than **<max_measure_num
 # System Pipline
 
 
-```mermaid
-graph RL
-A[TrainSetManager]--mscToken-->B[MidiTransfer]
-C[input] -- mscXML --> A
-C[input] -- mscXML --> D((XmlDatParse))
-D--mscToken-->B
-B--mscTensor-->E[HAutoEncoder]
-
-```
+![mscPipline](https://github.com/JhMaic/mscTransfer/blob/main/images/pipline.png)
 
 > Musical file processing procedure.
 ## Model discription
