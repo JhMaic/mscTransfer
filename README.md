@@ -32,4 +32,4 @@ B--mscTensor-->E[HAutoEncoder]
 
 > Musical file processing procedure.
 ## Model discription
-![alt text](images/image.png)
+![System](https://github.com/JhMaic/mscTransfer/blob/main/images/image1.png)
