@@ -9,6 +9,7 @@ if __name__ == '__main__':
     if len(args) == 3:
         a_path = args[1]
         b_path = args[2]
+        nMeasure = 25
     elif len(args) == 4:
         a_path = args[1]
         b_path = args[2]
