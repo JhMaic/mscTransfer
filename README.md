@@ -12,9 +12,9 @@ You may get some in [Musescore](https://musescore.com/dashboard)
 
 ## Running
 
-Merge two music with command
+Merge two music with the command
 ```predict.py mscXML1 mscXML2 <max_measure_number>```
-if either mscXML1 or mscXML2 has **measure_number** less than **<max_measure_number>**, it may cause error.
+.If either mscXML1 or mscXML2 has **measure_number** less than **<max_measure_number>**, it may cause error.
 > Merged musical file will be outputed with name **merge1** and **merge2**, you can alter the names by motifying predict file manually.
 
 # System Pipline
